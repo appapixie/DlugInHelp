@@ -1,5 +1,12 @@
 # DlugInHelp
 
+![bot](https://user-images.githubusercontent.com/59546443/135705060-2014128d-2081-44fb-ae61-0135feac5bb6.PNG)
+<img src="https://img.shields.io/badge/Windows-000000?style=flat-square&logo=Windows&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/discord-7b8fcb?style=flat-square&logo=Discord&logoColor=white"/></a>
+
+
 [초대코드](https://discord.com/oauth2/authorize?client_id=475715049198190602&permissions=1133584&scope=bot)
 
 -진행되고 있는 프로젝트입니다.
@@ -11,7 +18,6 @@
     - Python 3.8.4 버전을 사용합니다.
     - Discord.py 1.7.3를 사용합니다.
     - MariaDB를 사용합니다.
-    - 도배 및 연타를 하지 말아주세요. 너무 심할경우 밴조치를 취할수도있습니다.
   * Server
     - 개인 컴퓨터 사용중입니다. 가끔 꺼질때도있으니 문의 주세요.
 - DISCORD
