@@ -1,8 +1,8 @@
 # DlugInHelp
 
 ![bot](https://user-images.githubusercontent.com/59546443/135705060-2014128d-2081-44fb-ae61-0135feac5bb6.PNG)
-<img src="https://img.shields.io/badge/linux-000000?style=flat-square&logo=Windows&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ubuntu-000000?style=flat-square&logo=Windows&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/linux-000000?style=flat-square&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ubuntu-000000?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/discord-7b8fcb?style=flat-square&logo=Discord&logoColor=white"/></a>
