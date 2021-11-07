@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Discord-7b8fcb?style=flat-square&logo=Discord&logoColor=white"/></a>
 
 
-[초대코드](https://discord.com/oauth2/authorize?client_id=475715049198190602&permissions=1133584&scope=bot)  
+[초대코드](https://discord.com/api/oauth2/authorize?client_id=475715049198190602&permissions=8&scope=applications.commands%20bot)  
 [WIKI](https://github.com/appapixie/DlugInHelp/wiki)
 
 -진행되고 있는 프로젝트입니다.
