@@ -17,7 +17,7 @@
 - 프로젝트 정보 및 룰
   * Language
     - Python 3.8.10 버전을 사용합니다.
-    - py-cord.py 1.7.3를 사용합니다.
+    - py-cord 1.7.3를 사용합니다.
     - Mysql를 사용합니다.
   * Server
     - Linux
