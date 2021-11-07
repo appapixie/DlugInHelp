@@ -2,7 +2,7 @@
 
 ![bot](https://user-images.githubusercontent.com/59546443/135705060-2014128d-2081-44fb-ae61-0135feac5bb6.PNG)  
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql-000000?style=flat-square&logo=Mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-7b8fcb?style=flat-square&logo=Discord&logoColor=white"/></a>
 
@@ -17,7 +17,7 @@
 - 프로젝트 정보 및 룰
   * Language
     - Python 3.8.10 버전을 사용합니다.
-    - Discord.py 1.7.3를 사용합니다.
-    - MariaDB를 사용합니다.
+    - py-cord.py 1.7.3를 사용합니다.
+    - Mysql를 사용합니다.
   * Server
-    - ubuntu 20.04 LTS
+    - Linux
